@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458312146727",
+    "project_id": "sendretrievedatajustdb",
+    "storage_bucket": "sendretrievedatajustdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458312146727:android:0e40478293e776909bd302",
+        "android_client_info": {
+          "package_name": "com.example.firestoredatabaseactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_r5ZbXbaQjp7bSR-3XMUA2S8V9k6jPQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
